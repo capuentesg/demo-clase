@@ -20,3 +20,5 @@ blabla
 esta palabra está en negrilla **negrilla**
 
 esta palabra está en itálica *itálica*
+
+# Este es una nueva sección
